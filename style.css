@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: (263,55%,52%) ;
+    
+}
+.card{
+    margin-top: 100px;
+    border: lawngreen;
+    border-radius: 25px;
+    width: 400px;
+    height: 400px;
+    background-color: hsl(217,19%,35%) ;
+    color: #fff;
+    
+}
+
+figure img{
+    margin-top:30px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+p{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 32px;
+    opacity: 50%;
+    color:#fff
+}
+
+.description{
+    color:white;
+    display: flex;
+    
+
+
+    
+    
+    
+
+}
+
+
+
